@@ -68,6 +68,11 @@ To get a local copy up and running, follow these steps.
 - Twitter: [@NowembabaziN](https://twitter.com/NowembabaziN)
 - Linkedin: [@nowembabazi-nickson](https://www.linkedin.com/in/nowebabazi-nickson/l)
 
+## 👤 **Nejjari Abdelhafid**
+
+- GitHub: [ @Nejjari001](https://github.com/Nejjari001)
+- Twitter: [@AbdoNJ19](https://https//twitter.com/AbdoNJ19)
+- LinkedIn: [Abdelhafid Nejjari](https://www.linkedin.com/in/abdelhafid-nejjari)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
