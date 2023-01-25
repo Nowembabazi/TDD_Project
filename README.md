@@ -34,7 +34,7 @@
 
 # 📖 [TDD_PROJECT] <a name="about-project"></a>
 
-> TDD_PROJECT is a ruby project.
+> This is a ruby project where we implement a class with some methods, and do test-driven development (TDD)
 
 *[TDD_Project]** is a ruby project.
 
@@ -81,7 +81,7 @@ To get a local copy up and running, follow these steps.
 ## 🔭 Future Features <a name="future-features"></a>
 
 > To be added later
-- Setup associations
+- Add more unit tests.
 - 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
