@@ -22,6 +22,6 @@ class Solver
       'buzz'
     else
       number.to_s
-   end
+    end
   end
 end
