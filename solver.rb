@@ -18,10 +18,10 @@ class Solver
       'fizzbuzz'
     elsif (number % 3).zero?
       'fizz'
-  elsif (number % 5).zero?
+    elsif (number % 5).zero?
       'buzz'
-  else
+    else
       number.to_s
+   end
   end
- end
 end
